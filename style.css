@@ -12,7 +12,7 @@ section {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(/2506443.jpg);
+  background: url(2506443.jpg);
   background-size: cover;
   background-position: center;
   animation: animateBg 5s linear infinite;
